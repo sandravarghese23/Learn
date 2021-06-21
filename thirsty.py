@@ -9,5 +9,5 @@ else :
     hungry=input("Are you Hungry")
 if thirsty=="yes":
     print("eat fruits")
-   
+    print("eat vegitables")
    
